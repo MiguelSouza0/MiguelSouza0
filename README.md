@@ -49,6 +49,7 @@ Desenvolvedor **Full Stack** com formação acadêmica no **Instituto Federal da
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 #### Bancos de Dados & BaaS
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -70,6 +71,31 @@ Desenvolvedor **Full Stack** com formação acadêmica no **Instituto Federal da
 ### 📌 Projetos em Destaque
 
 <table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💸 Divide Aí — API de Rateio de Despesas</h3>
+      <p><em>🌐 Código Aberto · <a href="https://github.com/MiguelSouza0/divide-ai">Ver repositório ↗</a></em></p>
+      <p>API REST que divide despesas de um grupo e resolve o acerto de contas no menor número possível de transferências.</p>
+      <ul>
+        <li><strong>Algoritmo:</strong> quitação gulosa com heaps, limitada a <em>n-1</em> transferências em O(n log n).</li>
+        <li><strong>Precisão:</strong> aritmética em centavos inteiros e método do maior resto — nenhum centavo se perde no rateio.</li>
+        <li><strong>Arquitetura:</strong> camadas isoladas (Blueprints, Service, Repository) com o núcleo de cálculo livre de framework.</li>
+        <li><strong>Qualidade:</strong> 175 testes, 97% de cobertura, <code>mypy --strict</code> e CI em Python 3.11 e 3.12.</li>
+      </ul>
+      <p><code>Python</code> <code>Flask 3</code> <code>SQLAlchemy 2</code> <code>Pydantic</code> <code>Pytest</code> <code>Docker</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏛️ System-PITE — Turismo Municipal</h3>
+      <p><em>🌐 Código Aberto · <a href="https://github.com/MiguelSouza0/System-PITE">Ver repositório ↗</a> · Hackaton de Turismo</em></p>
+      <p>Plataforma de gestão pública que conecta turistas, empreendedores locais e a administração municipal.</p>
+      <ul>
+        <li><strong>Roteiros inteligentes:</strong> sugestões por perfil, tempo e orçamento, com IA auditável.</li>
+        <li><strong>Dados para decisão:</strong> métricas ESG e geolocalização como apoio à gestão do município.</li>
+        <li><strong>Conformidade:</strong> tratamento de dados alinhado à LGPD.</li>
+      </ul>
+      <p><code>PHP</code> <code>Laravel 11</code> <code>PostgreSQL</code> <code>Bootstrap 5</code> <code>Docker</code></p>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🏫 SER — Sistema Escolar Relacional</h3>
