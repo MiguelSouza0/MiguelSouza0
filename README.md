@@ -38,6 +38,7 @@ Desenvolvedor **Full Stack** com formação acadêmica no **Instituto Federal da
 #### Linguagens
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -84,6 +85,20 @@ Desenvolvedor **Full Stack** com formação acadêmica no **Instituto Federal da
       </ul>
       <p><code>Python</code> <code>Flask 3</code> <code>SQLAlchemy 2</code> <code>Pydantic</code> <code>Pytest</code> <code>Docker</code></p>
     </td>
+    <td width="50%" valign="top">
+      <h3>🙈 Hidden Comments — Extensão do VS Code</h3>
+      <p><em>🌐 Código Aberto · <a href="https://github.com/MiguelSouza0/hidden-comments">Ver repositório ↗</a></em></p>
+      <p>Comentários de equipe que não aparecem no inspecionar do navegador: a extensão escolhe, por tipo de arquivo, a sintaxe que o servidor descarta antes de responder.</p>
+      <ul>
+        <li><strong>Detecção:</strong> reconhece Jinja, Blade, Twig e outros por conteúdo e dependências do projeto, sem depender do tipo declarado pelo editor.</li>
+        <li><strong>Alcance:</strong> converte também comentários de JS e CSS embutidos na página, com salvaguardas contra diretivas de ferramenta e expressões regulares.</li>
+        <li><strong>Sem pegada:</strong> em HTML, CSS e JS puros o comentário fica fora do arquivo e aparece como texto fantasma no editor.</li>
+        <li><strong>Qualidade:</strong> 97 testes, TypeScript estrito e CI — núcleo testável sem abrir o editor.</li>
+      </ul>
+      <p><code>TypeScript</code> <code>VS Code API</code> <code>esbuild</code> <code>node:test</code> <code>i18n pt-BR/en</code></p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🏛️ System-PITE — Turismo Municipal</h3>
       <p><em>🌐 Código Aberto · <a href="https://github.com/MiguelSouza0/System-PITE">Ver repositório ↗</a> · Hackaton de Turismo</em></p>
@@ -147,6 +162,7 @@ Desenvolvedor **Full Stack** com formação acadêmica no **Instituto Federal da
 | Projeto | Stack | O que demonstra |
 |---|---|---|
 | [**divide-ai**](https://github.com/MiguelSouza0/divide-ai) | `Python` `Flask` `SQLAlchemy` `Pytest` `Docker` | Arquitetura em camadas, algoritmo próprio, 175 testes e CI |
+| [**hidden-comments**](https://github.com/MiguelSouza0/hidden-comments) | `TypeScript` `VS Code API` `esbuild` | Extensão bilíngue publicada, com 97 testes e núcleo sem dependência do editor |
 | **SER** 🔒 | `Python` `Flask` `SQLAlchemy` `PostgreSQL` `Pytest` | Sistema multi-tenant em produção, RBAC e auditoria |
 | **JES** 🔒 | `Python` `Django` `PostgreSQL` `Supabase` | Modelagem relacional e controle de acesso |
 | [**System-PITE**](https://github.com/MiguelSouza0/System-PITE) | `PHP` `Laravel 11` `PostgreSQL` `Bootstrap` | Aplicação web completa construída em hackathon |
