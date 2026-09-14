@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Python+%7C+Flask+%7C+Django+%7C+JavaScript;Estudante+de+Sistemas+para+Internet+(IFPB);Foco+em+Arquitetura+Limpa+e+APIs+REST)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://linkedin.com/in/francisco-miguel-a56a46303" target="_blank">
+  <a href="https://www.linkedin.com/in/francisco-souza-santos-a56a46303" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:miguel.souzadev0@gmail.com">
