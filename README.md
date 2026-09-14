@@ -143,7 +143,6 @@ Desenvolvedor **Full Stack** com formação acadêmica no **Instituto Federal da
 
 </div>
 
-#### Onde cada tecnologia aparece
 
 | Projeto | Stack | O que demonstra |
 |---|---|---|
