@@ -133,12 +133,26 @@ Desenvolvedor **Full Stack** com formação acadêmica no **Instituto Federal da
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Atividade
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MiguelSouza0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Estatísticas de MiguelSouza0" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelSouza0&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+
+[![Seguidores](https://img.shields.io/github/followers/MiguelSouza0?style=for-the-badge&logo=github&labelColor=0D1117&color=2563EB)](https://github.com/MiguelSouza0?tab=followers)
+[![Estrelas](https://img.shields.io/github/stars/MiguelSouza0?affiliations=OWNER&style=for-the-badge&logo=github&labelColor=0D1117&color=2563EB)](https://github.com/MiguelSouza0?tab=repositories)
+[![Último commit](https://img.shields.io/github/last-commit/MiguelSouza0/divide-ai?style=for-the-badge&logo=git&logoColor=white&label=%C3%BAltimo%20commit&labelColor=0D1117&color=2563EB)](https://github.com/MiguelSouza0/divide-ai/commits/main)
+
 </div>
+
+#### Onde cada tecnologia aparece
+
+| Projeto | Stack | O que demonstra |
+|---|---|---|
+| [**divide-ai**](https://github.com/MiguelSouza0/divide-ai) | `Python` `Flask` `SQLAlchemy` `Pytest` `Docker` | Arquitetura em camadas, algoritmo próprio, 175 testes e CI |
+| **SER** 🔒 | `Python` `Flask` `SQLAlchemy` `PostgreSQL` `Pytest` | Sistema multi-tenant em produção, RBAC e auditoria |
+| **JES** 🔒 | `Python` `Django` `PostgreSQL` `Supabase` | Modelagem relacional e controle de acesso |
+| [**System-PITE**](https://github.com/MiguelSouza0/System-PITE) | `PHP` `Laravel 11` `PostgreSQL` `Bootstrap` | Aplicação web completa construída em hackathon |
+| [**PWeb**](https://github.com/MiguelSouza0/PWeb) | `TypeScript` `Angular` `Tailwind CSS` | Front-end tipado e componentizado |
+| [**kikilo**](https://github.com/MiguelSouza0/kikilo) | `Java` `db4o` | Orientação a objetos e persistência de objetos |
 
 ---
 
